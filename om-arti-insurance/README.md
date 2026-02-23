@@ -2,8 +2,12 @@
 
 A centralized internal web application designed to streamline insurance-related tasks, providing an efficient platform for managing quotes, tracking renewals, and accessing vital policy details.
 
-**🌍 Live Demo:** `[Add Live URL Here]`
-**📺 Video Demo:** `[Add Video Demo URL Here]`
+**🌍 Live Demo:** 
+https://ohm-maruthi-insurance.web.app/quote-tracking
+
+**📺 Video Demo:** 
+https://github.com/user-attachments/assets/ea7357cd-ec53-4887-9411-d15c2a96ec17
+
 
 ## Overview
 
