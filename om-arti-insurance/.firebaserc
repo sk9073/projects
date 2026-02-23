@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "omarti-insurance"
+  },
+  "targets": {
+    "omarti-insurance": {
+      "hosting": {
+        "insurance1": [
+          "ohm-maruthi-insurance"
+        ]
+      }
+    }
+  }
+}
