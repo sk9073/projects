@@ -1,3 +1,4 @@
+
 # Ohm Maruthi Orbit - Insurance Management Portal
 
 A centralized internal web application designed to streamline insurance-related tasks, providing an efficient platform for managing quotes, tracking renewals, and accessing vital policy details.
@@ -6,7 +7,10 @@ A centralized internal web application designed to streamline insurance-related 
 https://ohm-maruthi-insurance.web.app/quote-tracking
 
 **📺 Video Demo:** 
-https://github.com/user-attachments/assets/ea7357cd-ec53-4887-9411-d15c2a96ec17
+
+
+https://github.com/user-attachments/assets/7e700967-6d94-4ac6-8200-a0b1e23c6b4a
+
 
 
 ## Overview
