@@ -2,8 +2,11 @@
 
 A modern, responsive, and performance-optimized corporate website built to showcase services and establish a strong online presence.
 
-**🌍 Live Demo:** `[Add Live URL Here]`
-**📺 Video Demo:** `[Add Video Demo URL Here]`
+**🌍 Live Demo:** https://ohm-maruthi-website--omarti-insurance.asia-southeast1.hosted.app
+
+**📺 Video Demo:** 
+
+https://github.com/user-attachments/assets/25853710-5185-4645-b729-27c8096695d2
 
 ## Overview
 
@@ -20,4 +23,4 @@ Ohm Maruthi Orbit is a corporate landing page and website designed using Next.js
 
 *   **Framework:** Next.js (React)
 *   **Styling:** Tailwind CSS / CSS Modules
-*   **Deployment:** Vercel / Firebase App Hosting
+*   **Deployment:** Firebase App Hosting
